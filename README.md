@@ -45,5 +45,4 @@ Then select and open ```band.py```
 ## Change Log
 
 1.0.1: *Added readme info and minor formatting changes* - 17 Dec 2020
-1.0: *Completed basic functionality* - 16 Dec 2020  
-# pythonic-garage-band
+1.0: *Completed basic functionality* - 16 Dec 2020
